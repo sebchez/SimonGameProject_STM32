@@ -11,6 +11,7 @@
 /*
  *  User Defines that pertain to the Codec
  */
+#define CS43L22_I2C_ADDRESS		0x94
 
 #define AUDIO_OUTPUT_SPEAKER 	0
 #define AUDIO_OUTPUT_HEADPHONE 	1

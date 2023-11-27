@@ -427,6 +427,7 @@ static void MX_UART4_Init(void)
 /**
   * Enable DMA controller clock
   */
+
 static void MX_DMA_Init(void)
 {
 
